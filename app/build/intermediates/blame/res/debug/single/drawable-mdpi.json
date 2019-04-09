@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MPAndroidChartDemoByJin\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\MPAndroidChartDemoByJin\\MPAndroidChartDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\demol_qx\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\demol_qx\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

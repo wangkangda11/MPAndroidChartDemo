@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\demol_qx\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\26855\\.android\\build-cache\\f93bb305e74edb47fdd184dad9b6555f2a6230b8\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\demol_qx\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\26855\\.android\\build-cache\\f93bb305e74edb47fdd184dad9b6555f2a6230b8\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\demol_qx\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\26855\\.android\\build-cache\\f93bb305e74edb47fdd184dad9b6555f2a6230b8\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7461a0552214e01e7295087b7fa74b9db183ecd7\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7461a0552214e01e7295087b7fa74b9db183ecd7\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7461a0552214e01e7295087b7fa74b9db183ecd7\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7461a0552214e01e7295087b7fa74b9db183ecd7\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7461a0552214e01e7295087b7fa74b9db183ecd7\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\demol_qx\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\26855\\.android\\build-cache\\f93bb305e74edb47fdd184dad9b6555f2a6230b8\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\demol_qx\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\26855\\.android\\build-cache\\f93bb305e74edb47fdd184dad9b6555f2a6230b8\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7461a0552214e01e7295087b7fa74b9db183ecd7\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\demol_qx\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\26855\\.android\\build-cache\\f93bb305e74edb47fdd184dad9b6555f2a6230b8\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [MPAndroidChartDemo:MPChartLib:unspecified] D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\MPChartLib\build\intermediates\bundles\default\AndroidManifest.xml:17:5-19:41
+MERGED from [com.nex3z:flow-layout:0.1.4] C:\Users\Administrator\.android\build-cache\5129e16a92e3aef7bfa4ab55611e7740e8d8fa7d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Administrator\.android\build-cache\7461a0552214e01e7295087b7fa74b9db183ecd7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9ba2817dd016b1be2735fe3b94b02eaf1962aa3c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\853b3c985fa387579afa64ba4585b8b1a4138683\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\94d17aa7fc17407eb3254e475e090f8a5f3c6db7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\9933ff92c99eb9f9f27799c96943cc3c43589fe4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\d9824f19e49d73d8f77e0f38be3da08329d7fd75\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Administrator\.android\build-cache\8c0a9528ff9388ce4d686cc151d9cdb9bd6f3154\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Administrator\.android\build-cache\a3c08ba4395da520cc9aa03b8d60cc83c025fd2e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\543d991c419925468a2a9e98839378abbf80b7a4\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Administrator\.android\build-cache\7461a0552214e01e7295087b7fa74b9db183ecd7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:11:5-25:19
+MERGED from [com.nex3z:flow-layout:0.1.4] C:\Users\Administrator\.android\build-cache\5129e16a92e3aef7bfa4ab55611e7740e8d8fa7d\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Administrator\.android\build-cache\7461a0552214e01e7295087b7fa74b9db183ecd7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9ba2817dd016b1be2735fe3b94b02eaf1962aa3c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\853b3c985fa387579afa64ba4585b8b1a4138683\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\94d17aa7fc17407eb3254e475e090f8a5f3c6db7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\9933ff92c99eb9f9f27799c96943cc3c43589fe4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\d9824f19e49d73d8f77e0f38be3da08329d7fd75\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Administrator\.android\build-cache\8c0a9528ff9388ce4d686cc151d9cdb9bd6f3154\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Administrator\.android\build-cache\a3c08ba4395da520cc9aa03b8d60cc83c025fd2e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\543d991c419925468a2a9e98839378abbf80b7a4\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from [com.nex3z:flow-layout:0.1.4] C:\Users\Administrator\.android\build-cache\5129e16a92e3aef7bfa4ab55611e7740e8d8fa7d\output\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.barchart.mpchartdemo.MainActivity
+ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:17:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\demol_CurveChart\MPAndroidChartDemoByJin-1.0.0\MPAndroidChartDemo\app\src\main\AndroidManifest.xml:22:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9ba2817dd016b1be2735fe3b94b02eaf1962aa3c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\853b3c985fa387579afa64ba4585b8b1a4138683\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\94d17aa7fc17407eb3254e475e090f8a5f3c6db7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\9933ff92c99eb9f9f27799c96943cc3c43589fe4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\d9824f19e49d73d8f77e0f38be3da08329d7fd75\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\543d991c419925468a2a9e98839378abbf80b7a4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9ba2817dd016b1be2735fe3b94b02eaf1962aa3c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9ba2817dd016b1be2735fe3b94b02eaf1962aa3c\output\AndroidManifest.xml:26:9-47

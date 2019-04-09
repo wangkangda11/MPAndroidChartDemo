@@ -1,0 +1,4 @@
+#Thu Apr 04 13:58:35 CST 2019
+base.0=D\:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\demol_CurveChart\\MPAndroidChartDemoByJin-1.0.0\\MPAndroidChartDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
