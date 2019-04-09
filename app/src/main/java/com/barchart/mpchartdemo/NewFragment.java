@@ -469,6 +469,7 @@ public class NewFragment extends Fragment {
             entries.add(pieEntry);
         }
 
+
         for (int i = 6; i <= 7; i++) {
             PieEntry pieEntry = new PieEntry(100, "项目" + i + "占比");
             entries.add(pieEntry);
